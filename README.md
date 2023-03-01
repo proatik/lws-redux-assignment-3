@@ -1,0 +1,5 @@
+![plot](./src/assets/images/assignment-3.1.jpeg)
+![plot](./src/assets/images/assignment-3.2.jpeg)
+![plot](./src/assets/images/assignment-3.3.jpeg)
+![plot](./src/assets/images/assignment-3.4.jpeg)
+![plot](./src/assets/images/assignment-3.5.jpeg)
